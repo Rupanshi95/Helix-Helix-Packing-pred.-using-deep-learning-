@@ -1,3 +1,5 @@
+#still incomplete.....
+
 z = read.table("testOutput.txt")
 
 #used to remove the values less than 5% from the column v4 and v5 of our resulting dataset which is tau 1 and tau 2 
